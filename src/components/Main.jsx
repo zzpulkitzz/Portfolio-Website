@@ -154,7 +154,7 @@ export default function Main(){
         <div className="sub_main2 flex w-[100%] flex-row  pl-[8vw] pr-[8vw] ">
         <div className="text_container ">
             <div className="welcome_text text-[20px] h-[50px] w-[272px] bg-welcome_grad pl-[5px] border-[1px] mt-[8px] mb-[8px] border-[rgb(175,147,165)] flex justify-center items-center tracking-[0.8px] ">Welcome to my Portfolio</div>
-            <h1 className="hello_text text-[65px] leading-[1]"><span className="block">Hi I'm Judy {chngngText}</span></h1>
+            <h1 className="hello_text text-[65px] leading-[1]"><span className="block">Hi I'm Pulkit {chngngText}</span></h1>
             <p className="para_text text-[18px] tracking-[0.8px]  leading-[1.5em] text-[#B8B8B8] font-normal">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum repudiandae soluta deserunt quibusdam libero quae earum velit odit in sit aspernatur, dolor autem qui itaque! Ducimus consequuntur accusantium ratione optio!
             </p>
